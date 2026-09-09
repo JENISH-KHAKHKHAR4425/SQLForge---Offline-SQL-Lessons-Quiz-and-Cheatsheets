@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- cylinder lid -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,32 A28,11 0 1,0 82,32 A28,11 0 1,0 26,32 Z"/>
+    <!-- cylinder body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,32 L26,76 A28,11 0 0,0 82,76 L82,32 L26,32 Z"/>
+    <!-- bottom cap shading -->
+    <path
+        android:fillColor="#D8DEFF"
+        android:pathData="M26,76 A28,11 0 0,0 82,76 A28,11 0 0,1 26,76 Z"/>
+    <!-- divider lines suggesting rows -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M26,50 L82,50 L82,53 L26,53 Z"/>
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M26,63 L82,63 L82,66 L26,66 Z"/>
+    <!-- query prompt accent -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M40,86 L48,90 L40,94 Z"/>
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M52,91 L66,91 L66,94 L52,94 Z"/>
+</vector>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Query Craft</string>
+    <string name="tagline">Master SQL. Fully Offline.</string>
+</resources>

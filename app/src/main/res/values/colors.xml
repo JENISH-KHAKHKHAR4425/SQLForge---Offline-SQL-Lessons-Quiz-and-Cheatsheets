@@ -1,0 +1,24 @@
+<resources>
+    <color name="bg_top">#0F1021</color>
+    <color name="bg_bottom">#1A1033</color>
+
+    <color name="surface">#1E2142</color>
+    <color name="surface_light">#2A2E5A</color>
+    <color name="surface_stroke">#3A3F72</color>
+
+    <color name="accent_purple">#8B5CF6</color>
+    <color name="accent_blue">#38BDF8</color>
+    <color name="accent_green">#34D399</color>
+    <color name="accent_pink">#F472B6</color>
+    <color name="accent_orange">#FB923C</color>
+    <color name="accent_yellow">#FACC15</color>
+    <color name="accent_red">#F87171</color>
+
+    <color name="text_primary">#F1F5F9</color>
+    <color name="text_secondary">#9AA3C4</color>
+    <color name="text_muted">#6B7099</color>
+
+    <color name="code_bg">#0B0C1E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
